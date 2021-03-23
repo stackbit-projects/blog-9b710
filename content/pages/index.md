@@ -12,7 +12,7 @@ intro_actions:
     style: primary
   - label: Contact
     url: /contact
-    style: primary
+    style: secondary
 has_more_link: true
 more_link_text: Read more
 seo:
